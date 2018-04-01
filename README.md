@@ -3,7 +3,8 @@ Content:<br>
 In order to facilitate users to rent a car as and when required we would like to design a car rental
 system. It is more feasible than owning a car and maintaining it. Car rental system serves people
 who don't own a car, who are out of town or owners of damaged cars who are awaiting repair or
-insurance compensation.<br>
+insurance compensation.
+
 Scope:<br>
 1. Providing car catalog to the Users so that they can choose the best option based on their
 concern.
