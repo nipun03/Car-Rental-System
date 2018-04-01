@@ -22,7 +22,11 @@ tables, columns, relations, indexes, users, permissions etc. which can be perfor
 interface, while having the ability to directly execute any SQL statement.
 phpMyAdmin Version information: 4.0.10deb1. Database Server details are as follows:
 ● Server: 127.0.0.1 via TCP/IP
+
 ● Server type: MySQL
+
 ● Server version: 5.5.57-0ubuntu0.14.04.1 - (Ubuntu)
+
 ● Protocol version: 10
+
 ● Database client version: libmysql - mysqlnd 5.0.11-dev
