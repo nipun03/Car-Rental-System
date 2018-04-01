@@ -14,8 +14,9 @@ and allows only authorized Users (Driver License) to rent a vehicle
 Objective:<br>
 1. To reduce the effort of booking a car in a conventional procedure.
 2. To ease the search process of a customer who is in need of a car.
-3. To provide services to the customers in order to achieve the best customer satisfaction.<br>
-PROJECT ENVIRONMENT<br>
+3. To provide services to the customers in order to achieve the best customer satisfaction.
+
+Project Environment<br>
 phpMyAdmin is a free software tool written in PHP, intended to handle the administration of
 MySQL over the Web. Frequently used operations of phpMyAdmin include managing databases,
 tables, columns, relations, indexes, users, permissions etc. which can be performed via the user
