@@ -26,3 +26,4 @@ phpMyAdmin Version information: 4.0.10deb1. Database Server details are as follo
 ● Server version: 5.5.57-0ubuntu0.14.04.1 - (Ubuntu)<br>
 ● Protocol version: 10<br>
 ● Database client version: libmysql - mysqlnd 5.0.11-dev<br>
+The project was carried out in 3 Sprints.
