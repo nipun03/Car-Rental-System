@@ -20,13 +20,9 @@ phpMyAdmin is a free software tool written in PHP, intended to handle the admini
 MySQL over the Web. Frequently used operations of phpMyAdmin include managing databases,
 tables, columns, relations, indexes, users, permissions etc. which can be performed via the user
 interface, while having the ability to directly execute any SQL statement.
-phpMyAdmin Version information: 4.0.10deb1. Database Server details are as follows:
-● Server: 127.0.0.1 via TCP/IP
-
-● Server type: MySQL
-
-● Server version: 5.5.57-0ubuntu0.14.04.1 - (Ubuntu)
-
-● Protocol version: 10
-
-● Database client version: libmysql - mysqlnd 5.0.11-dev
+phpMyAdmin Version information: 4.0.10deb1. Database Server details are as follows:<br>
+● Server: 127.0.0.1 via TCP/IP<br>
+● Server type: MySQL<br>
+● Server version: 5.5.57-0ubuntu0.14.04.1 - (Ubuntu)<br>
+● Protocol version: 10<br>
+● Database client version: libmysql - mysqlnd 5.0.11-dev<br>
